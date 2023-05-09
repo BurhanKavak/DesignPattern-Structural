@@ -1,4 +1,4 @@
-## :diammond_shape_with_a_dot_inside: Adapter Pattern
+## :diamond_shape_with_a_dot_inside: Adapter Pattern
 
 **Adapter Tasarım Deseni, farklı sınıfların bir arada çalışabilmesi için kullanılan bir yapısal tasarım desenidir. Bu desen, var olan bir sınıfın arayüzünü, başka bir sınıfın beklediği arayüzle eşleştirmek için kullanılır. Bu sayede, farklı sınıfların birbiriyle uyumlu hale getirilmesi mümkün olur.**
 
