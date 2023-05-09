@@ -1,4 +1,4 @@
-## :diammond_shape_with_a_dot_inside: Bridge Pattern
+## :diamond_shape_with_a_dot_inside: Bridge Pattern
 
 **Bridge tasarım deseni, nesneler arasındaki soyutlamayı ve gerçeklemeyi ayrı tutarak bir sistem tasarlama yaklaşımıdır. Bu desen, soyutlamayı oluşturan nesnelerin işlevselliğini ayrı bir sınıfta belirleyerek, gerçekleme detaylarının başka bir sınıfta yer almasını sağlar. Bu sayede, farklı soyutlama sınıfları için aynı gerçekleme sınıfı kullanılabilir ve değişiklikler bir sınıfın diğerini etkilemeden yapılabilir.**
 
