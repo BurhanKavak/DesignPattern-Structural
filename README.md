@@ -1,4 +1,4 @@
-# :triangular_flag_on_post: Structural (Yapısal) Tasarım Desenleri:**
+# :triangular_flag_on_post: Structural (Yapısal) Tasarım Desenleri
 
 **Structural (Yapısal) Tasarım Desenleri, nesne ve sınıf yapılarını organize etmek ve birleştirmek için kullanılan tasarım desenleridir. Bu desenler, nesne ve sınıflar arasındaki ilişkileri belirlemeye yardımcı olur ve programın yapısını kolaylaştırır.**
 
