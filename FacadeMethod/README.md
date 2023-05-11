@@ -10,3 +10,5 @@
 - **Kullanıcılara daha basit bir arayüz sunar: Facade, bir sistemin karmaşık yapısını saklar ve kullanıcılara daha basit bir arayüz sunar. Kullanıcılar, sistem veya alt sistem hakkında ayrıntılı bilgiye sahip olmak zorunda kalmazlar.**
 - **Alt sistemlerin değiştirilmesini kolaylaştırır: Facade, alt sistemlerin daha iyi bir şekilde değiştirilmesine izin verir. Yeni bir alt sistem eklendiğinde, kullanıcıların kodlarında yapacakları değişiklikler en aza indirgenir.**
 - **Kod tekrarını azaltır: Facade, kod tekrarını önlemeye yardımcı olur. Sistem içindeki birçok farklı bileşen kullanılıyorsa, Facade arayüzü, bu bileşenlerin tekrar kullanımını sağlar.**
+
+![](../images/11-Structural-Facade.png)
